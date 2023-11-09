@@ -4,6 +4,9 @@
 
 Java is a general-purpose, versatile, object-oriented, and platform-independent programming language created by James Gosling and team at Sun Microsystems in the mid-90s. It has since become one of software development's most widely used and influential programming languages.
 
+**Free Java course with certificate and real-time projects - [Learn Java in Hindi](https://data-flair.training/courses/free-java-course-hindi/) | [Learn Java in English](https://data-flair.training/courses/free-java-course/)**
+
+
 ### Brief history of Java
 Java, developed by James Gosling and Mike Sheridan at Sun Microsystems in the mid-'90s, was originally designed for interactive television. However, it found its true calling as a versatile, platform-independent programming language.
 Java's "Write Once, Run Anywhere" philosophy allows developers to write code on one platform and run it on any other, making it a popular choice for a wide range of applications.
@@ -16,8 +19,8 @@ Whether you're a budding software engineer or looking to broaden your programmin
 You'll need to set up a development environment to start your Java journey. Follow these steps:
 
 1.	Install Java Development Kit (JDK): Download and install the JDK from the official Oracle website or adopt OpenJDK. Ensure your system's PATH variable includes the JDK's "bin" directory.
-2.	Choose an Integrated Development Environment (IDE): Eclipse, IntelliJ IDEA, and NetBeans. Pick one that suits your preferences.
-3.	Write Your First Java Program: Open your IDE, create a new project, and write a simple "Hello World" program. This ensures your setup is working seamlessly.
+2.	Choose an Integrated Development Environment (IDE): [Eclipse](https://www.eclipse.org/downloads/packages/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), and [NetBeans](https://netbeans.apache.org/front/main/download/nb19/). Pick one that suits your preferences.
+3.	Write Your First Java Program: Open your [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), create a new project, and write a simple "Hello World" program. This ensures your setup is working seamlessly.
 
 
 ## Java Features
@@ -65,7 +68,7 @@ Comparison Operators: Used to compare two values and produce a boolean result. E
 Logical Operators: Used for combining conditional statements. Common logical operators include AND (&&), OR (||), and NOT (!).
 
 ### Control Flow Statements
-Conditional Statements: Java supports if, else if, and statements for program decision-making. These statements allow the execution of different code blocks based on specified conditions.
+Conditional Statements: [Java](https://www.ibm.com/topics/java) supports if, else if, and statements for program decision-making. These statements allow the execution of different code blocks based on specified conditions.
 
 Switch Statement: An alternative to a series of if statements, the switch statement evaluates an expression against multiple possible case values.
 
@@ -523,7 +526,8 @@ Please apply your skills by working on real-world projects. This could include b
 * Digital Clock
 * Airline reservation system
 * Quizzing app
-Still hungry?? Here is a list of [tons of Java projects with source code](https://techvidvan.com/tutorials/java-project-ideas/)
+
+**Here is a list of [tons of Java projects with source code](https://techvidvan.com/tutorials/java-project-ideas/)**
 
 ## Resources and Further Learning
 Explore additional resources such as books, online tutorials, and Java community websites to continue learning. Engaging with the Java community will keep you updated on new developments and best practices.
@@ -531,19 +535,19 @@ Congratulations on completing this comprehensive Java tutorial! Feel free to ask
 
 ## Top Resources to Learn Java
 
-**1.	DataFlair's Java Tutorials:** DataFlair's Java Tutorials provide comprehensive and practical tutorials for learning Java. It covers everything from the basics to advanced topics, with hands-on examples.
+**1.	DataFlair's Java Tutorials:** [DataFlair's Java Tutorials](https://data-flair.training/blogs/java-tutorials-home/) provide comprehensive and practical tutorials for learning Java. It covers everything from the basics to advanced topics, with hands-on examples.
 
-**2.	TechVidvan:** TechVidvan offers an interactive and beginner-friendly Java course. It provides a hands-on learning experience through coding exercises and projects.
+**2.	TechVidvan:** [TechVidvan](https://techvidvan.com/tutorials/learn-java/) offers an interactive and beginner-friendly Java course. It provides a hands-on learning experience through coding exercises and projects.
 
-**3.	ProjectGurukul:** ProjectGurukul's Java Programming is a more in-depth, project-based learning option. It's suitable for those looking to gain practical experience in Java development.
+**3.	ProjectGurukul:** [ProjectGurukul's Java Programming](https://projectgurukul.org/category/java-projects/) is a more in-depth, project-based learning option. It's suitable for those looking to gain practical experience in Java development.
 
-**4.	FirstCode:** FirstCode's Java Programming Language section is a valuable resource for learning Java, with detailed articles, tutorials, and coding examples. It covers a wide range of topics from basic to advanced.
+**4.	FirstCode:** [FirstCode's Java Programming Language](https://firstcode.school/category/java-tutorials/) section is a valuable resource for learning Java, with detailed articles, tutorials, and coding examples. It covers a wide range of topics from basic to advanced.
 
 
 ## Where Java is Used? - Top Java Applications
 Java is a versatile and widely used programming language that finds applications in various domains due to its platform independence, robustness, and scalability. Here are some key areas where Java is commonly employed:
 
-**1. Web Development:** Java is extensively used for building dynamic and interactive web applications. Frameworks like Spring and JavaServer Faces (JSF) simplify the development of scalable and maintainable web solutions. Java's Servlet and JSP technologies play a crucial role in server-side web development.
+**1. Web Development:** [Java](https://openjdk.org/) is extensively used for building dynamic and interactive web applications. Frameworks like Spring and JavaServer Faces (JSF) simplify the development of scalable and maintainable web solutions. Java's Servlet and JSP technologies play a crucial role in server-side web development.
 
 **2. Enterprise Applications:** Java is a preferred choice for developing large-scale enterprise applications. Its robustness, scalability, and support for multithreading make it suitable for handling complex business logic. The Spring framework is widely used in enterprise application development.
 
