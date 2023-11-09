@@ -8,17 +8,17 @@ Java is a general-purpose, versatile, object-oriented, and platform-independent 
 
 
 ### Brief history of Java
-Java, developed by James Gosling and Mike Sheridan at Sun Microsystems in the mid-'90s, was originally designed for interactive television. However, it found its true calling as a versatile, platform-independent programming language.
+Java, developed by [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) and Mike Sheridan at [Sun Microsystems](https://www.britannica.com/topic/Sun-Microsystems-Inc) in the mid-'90s, was originally designed for chip-level programming. However, it found its true calling as a versatile, platform-independent programming language.
 Java's "Write Once, Run Anywhere" philosophy allows developers to write code on one platform and run it on any other, making it a popular choice for a wide range of applications.
 
 ### Why learn Java?
-Java's widespread use in web development, mobile applications (Android), enterprise systems, and big data makes it a valuable language to learn. It's known for its simplicity, readability, and extensive community support.
+Java's widespread use in web development, mobile applications ([Android](https://www.android.com/intl/en_in/)), enterprise systems, and [big data](https://data-flair.training/courses/free-big-data-hadoop-course/) makes it a valuable language to learn. It's known for its simplicity, readability, and extensive community support.
 Whether you're a budding software engineer or looking to broaden your programming skills, Java provides a solid foundation for understanding key programming concepts.
 
 ### Setting up Java Development Environment
 You'll need to set up a development environment to start your Java journey. Follow these steps:
 
-1.	Install Java Development Kit (JDK): Download and install the JDK from the official Oracle website or adopt OpenJDK. Ensure your system's PATH variable includes the JDK's "bin" directory.
+1.	Install Java Development Kit (JDK): [Download and install the JDK](https://www.oracle.com/java/technologies/downloads/) from the official Oracle website or adopt [OpenJDK](https://openjdk.org/). Ensure your system's PATH variable includes the JDK's "bin" directory.
 2.	Choose an Integrated Development Environment (IDE): [Eclipse](https://www.eclipse.org/downloads/packages/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), and [NetBeans](https://netbeans.apache.org/front/main/download/nb19/). Pick one that suits your preferences.
 3.	Write Your First Java Program: Open your [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), create a new project, and write a simple "Hello World" program. This ensures your setup is working seamlessly.
 
