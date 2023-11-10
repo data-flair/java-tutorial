@@ -11,8 +11,9 @@ Java is a general-purpose, versatile, object-oriented, and platform-independent 
 Java, developed by [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) and Mike Sheridan at [Sun Microsystems](https://www.britannica.com/topic/Sun-Microsystems-Inc) in the mid-'90s, was originally designed for chip-level programming. However, it found its true calling as a versatile, platform-independent programming language.
 Java's "Write Once, Run Anywhere" philosophy allows developers to write code on one platform and run it on any other, making it a popular choice for a wide range of applications.
 
-### Why learn Java?
+### [Why learn Java?](https://www.youtube.com/watch?v=z9KhKADXPO8)
 Java's widespread use in web development, mobile applications ([Android](https://www.android.com/intl/en_in/)), enterprise systems, and [big data](https://data-flair.training/courses/free-big-data-hadoop-course/) makes it a valuable language to learn. It's known for its simplicity, readability, and extensive community support.
+
 Whether you're a budding software engineer or looking to broaden your programming skills, Java provides a solid foundation for understanding key programming concepts.
 
 ### Setting up Java Development Environment
@@ -196,7 +197,7 @@ These concepts form the foundation of Java programming and are essential for bui
 
 
 ## Object-Oriented Programming (OOP) Concepts in Java
-This section will explore the fundamental principles of Object-Oriented Programming (OOP) without delving into code. Object-Oriented Programming is a paradigm that revolves around the concept of "objects," encapsulating data and behaviour into cohesive units.
+This section will explore the fundamental principles of [Object-Oriented Programming (OOP)](https://www.youtube.com/watch?v=_16L0GkAAL8) without delving into code. Object-Oriented Programming is a paradigm that revolves around the concept of "objects," encapsulating data and behaviour into cohesive units.
 
 ### Class
 Definition: A class is a blueprint or a template for creating objects. It defines the attributes (data) and methods (behaviour) that the objects of the class will have.
@@ -205,24 +206,24 @@ Definition: A class is a blueprint or a template for creating objects. It define
 Definition: An object is an instance of a class. It represents a real-world entity and encapsulates data and behaviour.
 
 ### Inheritance
-Definition: Inheritance is a mechanism where a new class (subclass or derived class) inherits properties and behaviours from an existing class (superclass or base class). It promotes code reuse and establishes a relationship between classes.
+Definition: [Inheritance](https://techvidvan.com/tutorials/java-inheritance/) is a mechanism where a new class (subclass or derived class) inherits properties and behaviours from an existing class (superclass or base class). It promotes code reuse and establishes a relationship between classes.
 
 ### Polymorphism
 Definition: Polymorphism allows objects to take on multiple forms. In Java, polymorphism is achieved through method overloading and method overriding. It enables flexibility and adaptability in code.
 
 ### Encapsulation
-Definition: Encapsulation is the bundling of data (attributes) and methods that operate on the data into a single unit called a class. It helps in controlling access to the data and ensures data integrity.
+Definition: [Encapsulation](https://www.youtube.com/watch?v=AcQ5bjW10xs) is the bundling of data (attributes) and methods that operate on the data into a single unit called a class. It helps in controlling access to the data and ensures data integrity.
 
 ### Abstraction
 Definition: Abstraction simplifies complex systems by modelling classes based on essential properties and behaviours. It hides the implementation details and focuses on the functionality.
 
 ### Interface
-Definition: An interface is a collection of abstract methods. Classes implement interfaces to provide specific behaviour. It supports multiple inheritance and helps achieve abstraction.
+Definition: An [interface](https://firstcode.school/interface-in-java-with-examples/) is a collection of abstract methods. Classes implement interfaces to provide specific behaviour. It supports multiple inheritance and helps achieve abstraction.
 
 ### Constructor
 Definition: A constructor is a special method used for initializing objects. It has the same name as the class and is called when an object is created.
 
-### Method Overloading and Overriding
+### [Method Overloading and Overriding](https://techvidvan.com/tutorials/method-overloading-and-overriding/)
 Method Overloading: Defining multiple methods with the same name in a class but with different parameter lists. It is a form of compile-time polymorphism.
 
 Method Overriding: Providing a specific implementation for a method in the subclass already defined in its superclass. It is a form of runtime polymorphism.
@@ -232,7 +233,7 @@ Understanding these object-oriented concepts is crucial for designing and buildi
 
 
 ## Java Data Structures
-This section will explore essential data structures in Java, providing a foundation for organizing and manipulating data in your programs.
+This section will explore essential [data structures in Java](https://www.youtube.com/watch?v=QnRUXALG-Os), providing a foundation for organizing and manipulating data in your programs.
 
 ### Arrays
 Definition: An array is a collection of similar data types. In Java, arrays can be one-dimensional or multidimensional. They provide a way to store and access multiple values under a single variable name.
