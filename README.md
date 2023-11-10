@@ -91,7 +91,7 @@ Understanding these fundamental concepts lays a solid foundation for programming
 
 
 ## Basic Constructs of Java Programming
-[1.	Class](https://firstcode.school/java-objects-and-classes/)
+1.	[Class](https://firstcode.school/java-objects-and-classes/)
 
 2.	Object
 
