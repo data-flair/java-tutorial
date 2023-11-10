@@ -91,56 +91,107 @@ Understanding these fundamental concepts lays a solid foundation for programming
 
 ## Basic Constructs of Java Programming
 [1.	Class](https://firstcode.school/java-objects-and-classes/)
+
 2.	Object
+
 [3.	Constructor](https://techvidvan.com/tutorials/java-constructor/)
+
 [4.	Inheritance](https://data-flair.training/blogs/inheritance-in-java/)
+
 5.	Polymorphism
+
 [6.	Encapsulation](https://techvidvan.com/tutorials/java-encapsulation/)
+
 7.	Abstraction
+
 [8.	Interface](https://firstcode.school/interface-in-java-with-examples/)
+
 9.	Package
+
 10.	Method
+
 11.	Variable
+
 12.	Data Type
+
 13.	Array
+
 14.	Loop (for, while, do-while)
+
 15.	Conditional Statements (if, else, switch)
+
 [16.	Exception Handling](https://data-flair.training/blogs/exception-handling-in-java/)
+
 17.	Try-Catch Blocks
+
 18.	Finally Block
+
 19.	Throw and Throws
+
 [20.	Static Keyword](https://www.youtube.com/watch?v=B_uSj1XNyYw)
+
 [21.	Final Keyword](https://www.youtube.com/watch?v=ZxlnpumhQ6o)
+
 22.	Abstract Class
+
 [23.	Interface](https://www.youtube.com/watch?v=vkG5hfPljSc)
+
 24.	Method Overloading
+
 [25.	Method Overriding](https://techvidvan.com/tutorials/java-method-overriding/)
+
 26.	Access Modifiers (public, private, protected, default)
+
 27.	Packages and Import
+
 28.	Collection Framework (List, Set, Map, etc.)
+
 29.	Generics
+
 [30.	Lambda Expressions](https://data-flair.training/blogs/java-functional-interface/)
+
 31.	Streams API
+
 [32.	File Handling](https://www.youtube.com/watch?v=NCCyXwFQiNw)
+
 [33.	Multithreading](https://www.youtube.com/watch?v=Tj6zjgpVO-A)
+
 34.	Synchronization
+
 35.	Thread Pools
+
 36.	Networking (Socket, ServerSocket)
+
 [37.	JDBC (Java Database Connectivity)](https://www.youtube.com/watch?v=9brA8j7nndI)
+
 38.	GUI Programming (Swing, JavaFX)
+
 39.	Event Handling
+
 40.	JUnit (for Unit Testing)
+
 41.	Annotations (e.g., @Override, @Deprecated)
+
 42.	Enums
+
 43.	Reflection
+
 44.	Serialization
+
 [45.	Garbage Collection](https://techvidvan.com/tutorials/java-garbage-collection/)
+
 46.	Java Virtual Machine (JVM)
+
 47.	Memory Management
+
 48.	Concurrency Utilities (e.g., Executors)
+
 49.	Big-O Notation (for algorithmic complexity)
+
 50.	Design Patterns (e.g., Singleton, Observer, Factory)
+
 These concepts form the foundation of Java programming and are essential for building robust and scalable applications.
+
 
 
 
