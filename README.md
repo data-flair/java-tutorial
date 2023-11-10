@@ -2,7 +2,7 @@
 
 ## What is Java?
 
-Java is a general-purpose, versatile, object-oriented, and platform-independent programming language created by James Gosling and team at Sun Microsystems in the mid-90s. It has since become one of software development's most widely used and influential programming languages.
+[Java](https://docs.google.com/spreadsheets/d/1X0Fj-81uEJf-GkiFNaYtTxayn9SPcSM0439ecY2__SY/edit#gid=809625835) is a general-purpose, versatile, object-oriented, and platform-independent programming language created by James Gosling and team at Sun Microsystems in the mid-90s. It has since become one of software development's most widely used and influential programming languages.
 
 **Free Java course with certificate and real-time projects - [Learn Java in Hindi](https://data-flair.training/courses/free-java-course-hindi/) | [Learn Java in English](https://data-flair.training/courses/free-java-course/)**
 
@@ -52,6 +52,7 @@ You'll need to set up a development environment to start your Java journey. Foll
 
 These features collectively contribute to Java's popularity and widespread use in various domains, including web development, mobile app development, enterprise systems, and more. Java's versatility and reliability make it a solid choice for developers across the globe.
 
+**Stay updated with the latest technology trends - [Join DataFlair on Telegram](https://t.me/dataflair)**
 
 ## Java Basics
 In this section, we'll delve into the foundational elements of Java programming without delving into actual code. Understanding these basics sets the stage for more complex concepts later on.
@@ -555,7 +556,7 @@ Both Spring and [Hibernate](https://hibernate.org/) are widely used in enterpris
 Take a moment to review the key concepts covered in each section. Ensure you are comfortable with the basics, object-oriented principles, exception handling, data structures, multithreading, and various frameworks.
 
 * [Java Interview Questions for Beginners](https://firstcode.school/core-java-interview-questions-with-answers/)
-* 
+* [300+ Java Interview Questions](https://techvidvan.com/tutorials/java-interview-questions-and-answers/)
 
 ## Quizzes and Exercises
 Consider taking [Java quizzes](https://quizorbit.com/core-java-quiz/) and attempting coding exercises related to each topic to solidify your understanding. This [Java quiz test](https://data-flair.training/blogs/java-quiz-questions/) will reinforce your knowledge and boost your confidence in Java programming.
@@ -655,8 +656,13 @@ The versatility of Java, coupled with its strong ecosystem and community support
 ## How to get Java Certification?
 You can get free Java certification being offered by [DataFlair](https://data-flair.training/)
 
+
 ## How to get Job updates?
 Please join [Job updates Telegram channel](https://t.me/jobpremier), where regular job updates are published. You can go ahead and apply for the relevant role.
+
+
+## How to get latest Technology updates?
+Please join [DataFlair's WhatsApp Channel](https://whatsapp.com/channel/0029Va9NEb7HLHQVx3DGce3A) & [DataFlair on Instagram](https://instagram.com/dataflair)
 
 ## How to Become a Java Developer?
 Becoming a Java developer involves a systematic and focused approach. You can enroll in [free Java course being offered by DataFlair](https://data-flair.training/courses/free-java-course-hindi/).
