@@ -91,7 +91,7 @@ Understanding these fundamental concepts lays a solid foundation for programming
 
 
 
-## Basic Constructs of Java Programming
+## [Basic Constructs of Java Programming](https://dev.to/anujgupta/the-essence-of-java-programming-1khm)
 1.	[Class](https://firstcode.school/java-objects-and-classes/)
 
 2.	Object
@@ -704,4 +704,14 @@ Becoming a Java developer involves a systematic and focused approach. You can en
 **18. Continuous Learning:** Java is an evolving language. Stay curious, keep learning, and explore advanced topics like microservices architecture, Spring Boot, and containerization.
 
 Remember, becoming a proficient Java developer is a journey that involves continuous learning and practical application of your knowledge. Stay persistent, embrace challenges, and enjoy the process of becoming a skilled Java developer. Good luck!
+
+
+## What Next?
+After learning [core Java](https://data-flair.training/courses/free-java-course-hindi/), you can plan to move ahead of crowd with following frameworks and tools:
+* [DSA with Java](https://data-flair.training/courses/free-dsa-java-course-hindi/)
+* [Advanced Java](https://data-flair.training/courses/free-advanced-java-course-hindi/)
+* [JSP](https://data-flair.training/courses/free-jsp-course-hindi/)
+* [Servlet](https://data-flair.training/courses/free-servlet-course-hindi/)
+* [Spring](https://data-flair.training/courses/free-java-spring-framework-course-hindi/)
+* [Hibernate](https://data-flair.training/courses/free-java-hibernate-course-hindi/)
 
